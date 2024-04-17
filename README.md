@@ -1,4 +1,4 @@
-<h1>NIST-CSF-improvement-plan</h1>
+<h1>Incident report analysis</h1>
 
 <h2>Description</h2>
 <p>A multimedia company that offers web design services, graphic design, and social media marketing solutions to small businesses experienced a DDoS attack, which compromised the internal network for two hours until it was resolved. During the attack, the organization’s network services suddenly stopped responding due to an incoming flood of ICMP packets. Normal internal network traffic could not access any network resources. The incident management team responded by blocking incoming ICMP packets, stopping all non-critical network services offline, and restoring critical network services.</p>
@@ -24,7 +24,7 @@ To address this security event, the network security team implemented:
 
 <h2>Mission </h2>
 
-<p>I was tasked with using this security event to create a plan to improve the company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I used the CSF to help me navigate through the different steps of analyzing this cybersecurity event and integrate my analysis into a general security strategy</p>
+<p>I was tasked with using this security event to create a plan to improve the company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I used the CSF to help me navigate through the different steps of analyzing this cybersecurity event and integrate my analysis into a general security. strategy</p>
 
 <h2>Incident report analysis:</h2>
 
