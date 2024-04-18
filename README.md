@@ -24,7 +24,7 @@ To address this security event, the network security team implemented:
 
 <h2>Mission </h2>
 
-<p>I was tasked with using this security event to create a plan to improve the company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I used the CSF to help me navigate through the different steps of analyzing this cybersecurity event and integrate my analysis into a general security. strategy</p>
+<p>I was tasked with using this security event to create a plan to improve the company’s network security, following the National Institute of Standards and Technology (NIST) Cybersecurity Framework (CSF). I used the CSF to help me navigate through the different steps of analyzing this cybersecurity event and integrate my analysis into a general security strategy.</p>
 
 <h2>Incident report analysis:</h2>
 
